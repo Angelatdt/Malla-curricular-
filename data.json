@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": "IND16-0101",
+    "nombre": "Comunicación",
+    "semestre": "I",
+    "horas": 4,
+    "creditos": 3,
+    "prerequisitos": ""
+  },
+  {
+    "codigo": "IND16-0102",
+    "nombre": "Química I",
+    "semestre": "I",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": ""
+  },
+  {
+    "codigo": "IND16-0104",
+    "nombre": "Matemática I",
+    "semestre": "I",
+    "horas": 6,
+    "creditos": 5,
+    "prerequisitos": ""
+  },
+  {
+    "codigo": "IND16-0208",
+    "nombre": "Cálculo I",
+    "semestre": "II",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Matemática I"
+  }
+]
