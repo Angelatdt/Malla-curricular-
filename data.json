@@ -30,5 +30,133 @@
     "horas": 6,
     "creditos": 4,
     "prerequisitos": "Matemática I"
+  },
+  {
+    "codigo": "IND16-0209",
+    "nombre": "Física I",
+    "semestre": "II",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Matemática I"
+  },
+  {
+    "codigo": "IND16-0212",
+    "nombre": "Química II",
+    "semestre": "II",
+    "horas": 4,
+    "creditos": 3,
+    "prerequisitos": "Química I"
+  },
+  {
+    "codigo": "IND16-0315",
+    "nombre": "Cálculo II",
+    "semestre": "III",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Cálculo I, Matemática II"
+  },
+  {
+    "codigo": "IND16-0317",
+    "nombre": "Física II",
+    "semestre": "III",
+    "horas": 4,
+    "creditos": 3,
+    "prerequisitos": "Física I"
+  },
+  {
+    "codigo": "IND16-0421",
+    "nombre": "Termodinámica",
+    "semestre": "IV",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Física II, Química II"
+  },
+  {
+    "codigo": "IND16-0422",
+    "nombre": "Ingeniería Económica",
+    "semestre": "IV",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Cálculo I"
+  },
+  {
+    "codigo": "IND16-0527",
+    "nombre": "Mecánica para Ingenieros",
+    "semestre": "V",
+    "horas": 4,
+    "creditos": 3,
+    "prerequisitos": "Física I"
+  },
+  {
+    "codigo": "IND16-0528",
+    "nombre": "Investigación de Operaciones I",
+    "semestre": "V",
+    "horas": 5,
+    "creditos": 4,
+    "prerequisitos": "Cálculo II"
+  },
+  {
+    "codigo": "IND16-0637",
+    "nombre": "Investigación de Operaciones II",
+    "semestre": "VI",
+    "horas": 5,
+    "creditos": 4,
+    "prerequisitos": "Investigación de Operaciones I"
+  },
+  {
+    "codigo": "IND16-0636",
+    "nombre": "Ingeniería de Materiales",
+    "semestre": "VI",
+    "horas": 4,
+    "creditos": 3,
+    "prerequisitos": "Mecánica para Ingenieros, Química II"
+  },
+  {
+    "codigo": "IND16-0743",
+    "nombre": "Electricidad Industrial",
+    "semestre": "VII",
+    "horas": 4,
+    "creditos": 3,
+    "prerequisitos": "Dibujo Técnico Avanzado, Física II"
+  },
+  {
+    "codigo": "IND16-0744",
+    "nombre": "Control Integral de Calidad",
+    "semestre": "VII",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Estadística II, Procesos Industriales"
+  },
+  {
+    "codigo": "IND16-0853",
+    "nombre": "Simulación de Sistemas",
+    "semestre": "VIII",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Modelamiento de Procesos, Investigación de Operaciones II"
+  },
+  {
+    "codigo": "IND16-0961",
+    "nombre": "Automatización Industrial",
+    "semestre": "IX",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Simulación de Sistemas, Electricidad Industrial"
+  },
+  {
+    "codigo": "IND16-1066",
+    "nombre": "Dirección Estratégica",
+    "semestre": "X",
+    "horas": 4,
+    "creditos": 3,
+    "prerequisitos": "Dirección Financiera, Fundamentos de Marketing"
+  },
+  {
+    "codigo": "IND16-1069",
+    "nombre": "Formulación y Evaluación de Proyectos",
+    "semestre": "X",
+    "horas": 6,
+    "creditos": 4,
+    "prerequisitos": "Diseño de Planta, Planeamiento y Control de Operaciones, Ingeniería del Producto"
   }
 ]
